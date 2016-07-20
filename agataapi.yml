@@ -1,0 +1,5 @@
+agata:
+  widgets : 
+    serviceId : agatawidgets
+  users : 
+    serviceId : agatausers		
